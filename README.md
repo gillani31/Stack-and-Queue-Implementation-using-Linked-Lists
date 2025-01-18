@@ -4,9 +4,9 @@ This repository contains Python implementations of Stack and Queue data structur
 
 **Purpose:**
 
-* To gain hands-on experience with implementing fundamental data structures.
-* To reinforce concepts of linked lists, including node creation, traversal, insertion, and deletion.
-* To learn about the time complexity of different stack and queue operations.
+ To gain hands-on experience with implementing fundamental data structures.
+ To reinforce concepts of linked lists, including node creation, traversal, insertion, and deletion.
+ To learn about the time complexity of different stack and queue operations.
 
 **How to Run:**
 
@@ -17,21 +17,21 @@ This repository contains Python implementations of Stack and Queue data structur
 **Data Structures:**
 
 **Stack:**
-   **  Push:** Adds an element to the top of the stack. Time complexity: O(1)
-    ** Pop:** Removes and returns the top element of the stack. Time complexity: O(1)
-     **Peek:** Returns the top element of the stack without removing it. Time complexity: O(1)
-    ** isEmpty:** Checks if the stack is empty. Time complexity: O(1)
+       Push: Adds an element to the top of the stack. Time complexity: O(1)
+       Pop: Removes and returns the top element of the stack. Time complexity: O(1)
+       Peek: Returns the top element of the stack without removing it. Time complexity: O(1)
+       isEmpty: Checks if the stack is empty. Time complexity: O(1)
 
 Queue:
-    ** Enqueue:** Adds an element to the rear of the queue. Time complexity: O(1)
-     **Dequeue:** Removes and returns the front element of the queue. Time complexity: O(1)
-    ** Peek:** Returns the front element of the queue without removing it. Time complexity: O(1)
-    ** isEmpty:** Checks if the queue is empty. Time complexity: O(1)
+     Enqueue:Adds an element to the rear of the queue. Time complexity: O(1)
+     Dequeue: Removes and returns the front element of the queue. Time complexity: O(1)
+     Peek: Returns the front element of the queue without removing it. Time complexity: O(1)
+     isEmpty: Checks if the queue is empty. Time complexity: O(1)
 
 **Note:**
 
-* This implementation uses a singly linked list.
-* Error handling (e.g., attempting to pop from an empty stack) is included.
+ This implementation uses a singly linked list.
+Error handling (e.g., attempting to pop from an empty stack) is included.
 
 **Contributing:**
 
