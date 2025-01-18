@@ -28,7 +28,7 @@ Queue:
     * Peek: Returns the front element of the queue without removing it. Time complexity: O(1)
     * isEmpty: Checks if the queue is empty. Time complexity: O(1)
 
-Note:
+**Note:**
 
 * This implementation uses a singly linked list.
 * Error handling (e.g., attempting to pop from an empty stack) is included.
